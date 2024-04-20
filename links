@@ -12,9 +12,9 @@
 </a>
 <header>
 
-    <a class="menuhp" href="index.html">Startseite</a>
-    <a class="links" href="links.html">Links</a>
-    <a class="downloads" href="downloads.html">Downloads</a>
+    <a class="menuhp" href="startseite">Startseite</a>
+    <a class="links" href="links">Links</a>
+    <a class="downloads" href="downloads">Downloads</a>
 
 </header>
 <a class="bild1" href="https://www.youtube.com/@hatilo6252" target="_blank">
